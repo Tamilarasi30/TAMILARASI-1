@@ -3,3 +3,8 @@ public class Main {
         System.out.println("Hello from the main branch!");
     }
 }
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/your-username/JavaGitProject.git
+git push -u origin main
