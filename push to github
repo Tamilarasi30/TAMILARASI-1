@@ -25,3 +25,9 @@ git push origin --delete feature/greet
 git clone https://github.com/your-username/JavaFeatureDemo.git
 cd JavaFeatureDemo
 
+git add .
+git commit -m "Some changes"
+git push
+
+git pull
+
