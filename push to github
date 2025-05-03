@@ -8,3 +8,13 @@ git add .
 git commit -m "Initial commit"
 git remote add origin https://github.com/your-username/JavaGitProject.git
 git push -u origin main
+git checkout -b feature-a
+git push -u origin feature-a
+
+git checkout main
+git checkout -b feature-b
+git push -u origin feature-b
+
+git checkout main
+git checkout -b bugfix
+git push -u origin bugfix
