@@ -22,4 +22,6 @@ git push -u origin bugfix
 git branch -d feature/greet
 git push origin --delete feature/greet
 
+git clone https://github.com/your-username/JavaFeatureDemo.git
+cd JavaFeatureDemo
 
